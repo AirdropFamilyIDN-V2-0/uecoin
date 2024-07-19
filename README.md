@@ -13,7 +13,10 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/uecoin.git
 cd uecoin
 ```
 ```
-pip install -r requirements.txt
+pip install requests
+```
+```
+pip install colorama
 ```
 ```
 python bot.py
