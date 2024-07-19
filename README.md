@@ -1,17 +1,16 @@
-# CoinEgg Bot
+# UEEx_Miner_bot
 # SCREENSHOT
+![AirdropFamilyIDN](https://github.com/user-attachments/assets/727d062a-0962-422a-a29a-d0338ac14b8d)
 
-![image](https://github.com/AirdropFamilyIDN-V2-0/CoinEgg/assets/169967728/aa121f35-0504-4593-a99c-22d0258f765e)
 
-
-Link Bot : https://t.me/coinegg_miner_bot/miniapp?startapp=kBNoWEHfEAB3M1jKuGF
+Link Bot : https://t.me/UEEx_Miner_bot/UEB_Miner_Bot?startapp=kBNoWEHfEAAxzAA5GDD
 
 # HOW TO RUN
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/CoinEgg.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/uecoin.git
 ```
 ```
-cd CoinEgg
+cd uecoin
 ```
 ```
 pip install -r requirements.txt
@@ -25,5 +24,5 @@ python bot.py
 # DAPATKAN LEBIH BANYAK SCRIPT BOT
 - https://t.me/AirdropFamilyIDN
 # HOW TO GET QUERY?
+![query](https://github.com/user-attachments/assets/a0b9105e-bc6b-442b-a7d6-6c09a9ccf715)
 
-![image](https://github.com/AirdropFamilyIDN-V2-0/CoinEgg/assets/169967728/9743c68e-3b64-4416-adc8-7d8d0a67d256)
