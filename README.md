@@ -1,7 +1,4 @@
 # UEEx_Miner_bot
-# SCREENSHOT
-![AirdropFamilyIDN](https://github.com/user-attachments/assets/727d062a-0962-422a-a29a-d0338ac14b8d)
-
 
 Link Bot : https://t.me/UEEx_Miner_bot/UEB_Miner_Bot?startapp=kBNoWEHfEAAxzAA5GDD
 
@@ -26,6 +23,11 @@ python bot.py
 
 # DAPATKAN LEBIH BANYAK SCRIPT BOT
 - https://t.me/AirdropFamilyIDN
+
+# SCREENSHOT
+![AirdropFamilyIDN](https://github.com/user-attachments/assets/727d062a-0962-422a-a29a-d0338ac14b8d)
+
 # HOW TO GET QUERY?
 ![query](https://github.com/user-attachments/assets/a0b9105e-bc6b-442b-a7d6-6c09a9ccf715)
+
 
